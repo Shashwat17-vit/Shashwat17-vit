@@ -4,14 +4,13 @@
 </p>
 </a>
 
-### Whats going on:
+<h3>About Me: 🤝</h3>
 I'm a Data Scientist passionate about leveraging machine learning, cloud computing, deep neural network models, and large language models (LLMs) to drive innovative solutions and business insights. I thrive on applying my technical expertise to real-world challenges and delivering impactful results.
 - 📖 Working as a Data Science Intern and as a Machine Learning Engineer at UW-Madison
 - 🎓 Pursuing my Master's in Data Science from the University of Wisconsin-Madison
 - 🤓 Actively seeking opportunities in the fields of Data Science and AI
 -  📚 AWS Solutions Architect – Associate (2025) and AWS Certified Cloud Practitioner (2023) 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=github_dark" width="47%" height="300px" style="margin-top:40px"/>
 
 ## Languages:    
 <p align="left">                                                                               
