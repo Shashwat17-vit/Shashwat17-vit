@@ -1,6 +1,6 @@
 <a href="http://ww3.shashwatnegi.com">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hi,+I'm+Shashwat+Negi+👋;MS+Data+Science+@UW-Madison+🎓;Data Scientist+;AI/ML+Engineer+;Graduate Project Assistant for iSchool@UW-Madison">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Shashwat+Negi+%F0%9F%91%8B;A+proud+Badger+pursing+Master's+in+Data+Science+at+UW-Madison+%F0%9F%8E%93;Graduate+Project+Assistant+for+iSchool%40UW-M+;Proficient+Data+Scientist;Proficient+AI%2FML+Engineer" alt="Typing SVG" />
 </p>
 </a>
 
