@@ -1,13 +1,15 @@
 <a href="http://ww3.shashwatnegi.com">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Shashwat+Negi+%F0%9F%91%8B;A+proud+Badger+pursing+Master's+in+Data+Science+at+UW-Madison+%F0%9F%8E%93;Graduate+Project+Assistant+for+iSchool%40UW-M+;Proficient+Data+Scientist;Proficient+AI%2FML+Engineer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=200&size=18&duration=2500&pause=750&center=true&width=500&lines=Hi%2C+I'm+Shashwat+Negi+%F0%9F%91%8B;Master's+in+Data+Science+at+UW-Madison+%F0%9F%8E%93;Graduate+Project+Assistant+for+iSchool%40UW-M+;Proficient+Data+Scientist;Proficient+AI%2FML+Engineer" alt="Typing SVG" /></a>
 </p>
 </a>
 
 ### Whats going on:
+I'm a Data Scientist passionate about leveraging machine learning, cloud computing, deep neural network models, and large language models (LLMs) to drive innovative solutions and business insights. I thrive on applying my technical expertise to real-world challenges and delivering impactful results.
 - 📖 Working as a Data Science Intern and as a Machine Learning Engineer at UW-Madison
 - 🎓 Pursuing my Master's in Data Science from the University of Wisconsin-Madison
-- 🤓 Actively seeking opportunities in the fields of Data Science and AI 
+- 🤓 Actively seeking opportunities in the fields of Data Science and AI
+-  📚 AWS Solutions Architect – Associate (2025) and AWS Certified Cloud Practitioner (2023) 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NevinSelby&layout=compact&hide_border=true&&theme=github_dark" width="47%" height="300px" style="margin-top:40px"/>
 
@@ -49,5 +51,3 @@
 [gmail]:mailto:nevinselby2001@gmail.com?subject=&body=
 [website]:http://ww3.shashwatnegi.com
 
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/{NevinSelby}/count.svg)
