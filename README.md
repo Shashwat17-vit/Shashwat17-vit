@@ -41,7 +41,7 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]&nbsp;&nbsp;&nbsp;
 [<img alt="Instagram" src="https://img.shields.io/badge/Website-D14836?style=for-the-badge&logoColor=white"/>][website]&nbsp;&nbsp;&nbsp;
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp;&nbsp;&nbsp;
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/>][gmail]&nbsp;&nbsp;&nbsp;
 
 <br/>
 
