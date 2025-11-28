@@ -14,7 +14,7 @@ I’m a graduate student and AI/ML engineer focused on building reliable, produc
 - 💼 Experience as AI Engineer Intern at Infrrd.ai and Software Engineer (ML Solutions) at ZS Associates
 - 🤖 Interested in LLMs, agentic workflows, MLOps, and applied deep learning
 - ☁️ AWS Certified Solutions Architect – Associate and AWS Cloud Practitioner
-- 📂 Portfolio & projects: **[shashwatnegi.com](http://ww3.shashwatnegi.com)**
+- 📂 Portfolio & projects: **[shashwatnegi.com](http://www.shashwatnegi.com)**
 
 ---
 
