@@ -1,23 +1,3 @@
-<a href="http://ww3.shashwatnegi.com">
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=400&size=20&duration=2500&pause=750&center=true&width=600&lines=Hi%2C+I'm+Shashwat+Negi+%F0%9F%91%8B;M.S.+Data+Science+%40+UW%E2%80%93Madison;AI+Engineer+%7C+Data+Scientist;Building+LLM+and+ML+Systems" alt="Typing introduction" />
-  </p>
-</a>
-
----
-
-### About Me
-
-I’m a graduate student and AI/ML engineer focused on building reliable, production-grade machine learning and LLM systems.
-
-- 🎓 M.S. in Data Science, University of Wisconsin–Madison (WiSH Scholar, May 2026)
-- 💼 Experience as AI Engineer Intern at Infrrd.ai and Software Engineer (ML Solutions) at ZS Associates
-- 🤖 Interested in LLMs, agentic workflows, MLOps, and applied deep learning
-- ☁️ AWS Certified Solutions Architect – Associate and AWS Cloud Practitioner
-- 📂 Portfolio & projects: **[shashwatnegi.com](http://www.shashwatnegi.com)**
-
----
-
 ### Tech Stack
 
 #### Languages
